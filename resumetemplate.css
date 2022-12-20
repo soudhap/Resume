@@ -1,0 +1,82 @@
+#mini{
+    background-color: darkblue;
+    height: 900px;
+    width:200px;
+    color:white;
+   border: solid black;
+   border: top width 1px;
+   border: left-width 2px;
+}
+#web1{
+    font-size: 20px;
+    font-family: Inter;
+}
+#contact{
+     background-color: #181515;
+     font-size: 24px;
+}
+
+#addr{
+    font-size: 20px;
+    font-family: Inder;
+}
+#knl{
+    font-size: 16px;
+}
+#phn{
+    font-size: 20px;
+}
+#num{
+    font-size: 16px;
+}
+#eml{
+    font-size: 20px;
+}
+#mail{
+    font: size 16px; ;
+}
+#skl{
+    background-color: #181515;
+    font-size: 24px;
+}
+#mini2{
+    
+        border: solid black;
+        border: top width 1px;
+        border: left-width 2px;
+        border-bottom-width: 1px;
+        border-right-width: 2px;
+    
+    }
+
+#work{
+    font-size: 24px;
+    border: solid black;
+    border-left: 50px;
+    border-right: 50px;
+    padding-left: 110px;
+}
+#web2{
+    font-size:20px;
+}
+#habib{
+    font-size: 16px;
+    border-left: 50px;
+    border-right: 50px;
+    
+}
+#para1{
+    font-size: 16px;
+    border-left: 50px;
+    border-right: 50px;
+}
+#edu{
+    font-size: 24px;
+    border: solid black;
+    border-left: 50px;
+    border-right: 50px;
+    padding-right: 110px;
+}
+#para2{
+    font-size: 20px;
+}
